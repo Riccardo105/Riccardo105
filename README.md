@@ -1,4 +1,6 @@
-## HI, I'M RICCARDO
+## Hi I'm Riccardo
+I'm a Year 2 Computer Science student based in Winchester UK. I'm passionate about software development and cyber security. I consider myself a open minded individual with a look on my future self. I'm looking forward to being part fo this industry, and to have the chance to work with many of the greates engineers out there!
+
 ---
 
 <!---
