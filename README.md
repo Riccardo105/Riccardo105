@@ -3,7 +3,7 @@ I'm a Year 2 Computer Science student based in Winchester UK. I'm passionate abo
 <br/>
 
 - 🔗 Check out my Linkedin profile at: https://www.linkedin.com/in/riccardo-barone/
-- 📧 Don't esitate to contact me at my best email: riccardo.work.uk@gmail.com
+- 📧 Don't esitate to contact me at: riccardo.work.uk@gmail.com
 <br />
 
 ## 💻 My Activities on GitHub
