@@ -26,7 +26,7 @@ I'm a Year 2 Computer Science student based in Winchester UK. I'm passionate abo
 ---
 <details>
   <summary>📖 About me</summary>
-  
+  <br />
 Hello, Welcome to my GithGub profile, My name is Riccardo I am 23 years old and I was born in Bologna, Italy. I moved to the UK at the age of 19 right after completing my studies in Hospitality and Catering management. After workin in a wide range of restaurants and Hotel at rosette starts level I realised tha my time in the industry was coming to an end. I have always been passionate about building computers and anything that has to do with thecnology, thus I decided to enroll in the Computer Science degree at the University of Winchester. This decision comes form the desire to learn more about the world of technlogy and most importantly to widen my skill set beyond cooking and hospitality management. 
 <!---
 Riccardo105/Riccardo105 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
