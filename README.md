@@ -10,11 +10,7 @@ I'm a Year 2 Computer Science student based in Winchester UK. I'm passionate abo
 
 [![Riccardo's GitHub stats](https://github-readme-stats.vercel.app/api?username=Riccardo105&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
-
-### 📋 My Projects
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Riccardo105&repo=Riccardo105)](https://github.com/Riccardo105/Riccardo105)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Riccardo105&repo=Gift-Wrapping-service)](https://github.com/Riccardo105/Gift-Wrapping-service)
-### 🧰 My most used Languages and Tools
+### 🧰 My Tech Stack
 
 <img align="left" alt="Python" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Python" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pycharm/pycharm-original.svg" style="padding-right:10px;" />
