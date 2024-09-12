@@ -10,7 +10,7 @@ I'm a Year 2 Computer Science student based in Winchester UK. I'm passionate abo
   &#8287;&#8287;&#8287;&#8287;&#8287;
 
  ---
-### 🧰 Languages and tools
+### 🧰 Languages and Tools
 
 <img align="left" alt="Python" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Python" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pycharm/pycharm-original.svg" style="padding-right:10px;" />
@@ -18,6 +18,13 @@ I'm a Year 2 Computer Science student based in Winchester UK. I'm passionate abo
 <img align="left" alt="SQlite" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original-wordmark.svg"  style="padding-right:10px;" />
 <img align="left" alt="Oracle" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/oracle/oracle-original.svg" style="padding-right:10px;" />
 <img align="left" alt="UML" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unifiedmodelinglanguage/unifiedmodelinglanguage-original-wordmark.svg" style="padding-right:10px;" />
+<img align="left" alt="Git" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" style="padding-right:10px;" />
+<img align="left" alt="GitHub" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" style="padding-right:10px;" />;
+
+---
+### 💻 My GitHub Profile Stats 
+
+<a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Riccardo Barone's Github Stats" src="https://Riccardo105-github-readme-stats.vercel.app/api/?username=DenverCoder1&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/></a>
 
 <!---
 Riccardo105/Riccardo105 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
