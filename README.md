@@ -2,6 +2,8 @@
 I'm a Year 2 Computer Science student based in Winchester UK. I'm passionate about software development and cyber security. I consider myself a open minded individual with a look on my future self. I'm looking forward to being part fo this industry, and to have the chance to work with the greates engineers out there!
 <br/>
 
+- 🔗 check out my personal portfolio at:
+https://www.riccardobarone.dev
 - 🔗 Check out my Linkedin profile at: https://www.linkedin.com/in/riccardo-barone/
 - 📧 Don't esitate to contact me at: riccardo.work.uk@gmail.com
 <br />
