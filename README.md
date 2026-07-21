@@ -16,13 +16,13 @@ https://www.riccardobarone.dev
 <img align="left" alt="Javascript" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" style="padding-right:10px;" />
 <img align="left" alt="TypeScript" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" style="padding-right:10px;" />
 <img align="left" alt="React" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg" style="padding-right:10px;" />
-<img align="left" alt="Vercel" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vercel/vercel-original-wordmark.svg" style="padding-right:10px;" />
+<img align="left" alt="Vercel" width="30px" src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/vercel/wm-dark.svg" style="padding-right:10px; filter: brightness(0) invert(1);" />
 <img align="left" alt="VS code" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original-wordmark.svg" style="padding-right:10px;" />
 <img align="left" alt="Figma" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" style="padding-right:10px;" />
-<img align="left" alt="SQlite" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original-wordmark.svg"  style="padding-right:10px;" />
-<img align="left" alt="UML" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unifiedmodelinglanguage/unifiedmodelinglanguage-original-wordmark.svg" style="padding-right:10px;" />
+<img align="left" alt="SQlite" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original-wordmark.svg" style="padding-right:10px; filter: invert(1);" />
+<img align="left" alt="UML" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unifiedmodelinglanguage/unifiedmodelinglanguage-original-wordmark.svg" style="padding-right:10px; filter: invert(1);" />
 <img align="left" alt="Git" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" style="padding-right:10px;" />
-<img align="left" alt="GitHub" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original-wordmark.svg" style="padding-right:10px;" />
+<img align="left" alt="GitHub" width="30px" src="https://cdn.simpleicons.org/github/white" style="padding-right:10px; filter: brightness(0) invert(1);" />
 <br />
 <br />
 
