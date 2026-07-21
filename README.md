@@ -1,5 +1,5 @@
 # Hi, I'm Riccardo Barone 👋
-I'm a Year 3 Computer Science student based in Winchester UK. I'm passionate about software development and cyber security. I consider myself a open minded individual with a look on my future self. I'm looking forward to being part fo this industry, and to have the chance to work with the greates engineers out there!
+I'm a graduate in computer science (first class hons) from the University of Winchester. I'm passionate about software development and cyber security. I consider myself a open minded individual with a look on my future self. I'm looking forward to being part fo this industry, and to have the chance to work with the greates engineers out there!
 <br/>
 
 - 🔗 check out my personal portfolio at:
